@@ -1,0 +1,20 @@
+{
+    "caret_style": "phase",
+    "color_scheme": "Packages/Inspired GitHub Color Scheme/InspiredGitHub.tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+    "font_face": "Roboto Mono",
+    "font_size": 13,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "index_files": false,
+    "line_numbers": false,
+    "line_padding_bottom": 10,
+    "line_padding_top": 10,
+    "save_on_focus_lost": true,
+    "theme": "ayu-light.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}
